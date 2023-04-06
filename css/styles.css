@@ -1,0 +1,14 @@
+body {
+  background-color: #f7e8a6;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+.contact,
+h1 {
+  text-align: center;
+}
+.description {
+  text-align: center;
+}
