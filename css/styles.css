@@ -1,9 +1,11 @@
 body {
   background-color: #f7e8a6;
 }
-.links {
-  display: flex;
-  justify-content: space-evenly;
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
 }
 .contact,
 h1 {
@@ -11,4 +13,10 @@ h1 {
 }
 .description {
   text-align: center;
+}
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
